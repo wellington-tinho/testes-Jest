@@ -4,7 +4,7 @@
   "description": "Pacote de testes em uma calculadora",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "repository": {
     "type": "git",
