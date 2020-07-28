@@ -11,7 +11,7 @@ function mult(num1,num2){
 }
 
 function div(num1,num2){
-    if(num2==0)return 0
+    if(num2==0)return 0;
     return num1/num2;
 }
 
@@ -22,9 +22,6 @@ module.exports = {
     subtracao:sub,
     multiplicacao:mult,
     divisao:div
-}
+};
 
 
-const result = div(20,0)
-
-console.log(result);
