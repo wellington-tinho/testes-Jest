@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/wrtinho/testes-Jest/issues"
   },
-  "homepage": "https://github.com/wrtinho/testes-Jest#readme"
+  "homepage": "https://github.com/wrtinho/testes-Jest#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
