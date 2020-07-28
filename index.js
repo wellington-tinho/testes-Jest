@@ -13,6 +13,12 @@ function optionSelected(option) {
     if(option == "2"){
         return calculadora.subtracao(num1,num2)
     }
+    if(option == "3"){
+        return calculadora.multiplicacao(num1,num2)
+    }
+    if(option == "4"){
+        return calculadora.divisao(num1,num2)
+    }
 }
 
 
